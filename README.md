@@ -1,5 +1,5 @@
 # Flip-OS-PRO ®️©️
-# you can download the Flip-OS-Pro in www.flip-software.org
+# you can buy & download the Flip-OS-Pro in www.flip-software.org
 # how to installing:
 # download rufus and create a bootable usb turn off your device and turn on it go to bios whit f2 or f4 button and select the your usb on boot list and complete the installation
 # version for now: 1.0
